@@ -1,0 +1,2 @@
+# labproceduralhorserace-template
+Template repository for labproceduralhorserace
